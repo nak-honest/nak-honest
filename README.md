@@ -3,7 +3,7 @@
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e5slnh07)](https://solved.ac/e5slnh07/)
 
-- 광운대학교 소프트웨어학부 복수전공 (전공 평점 4.43/4.5)
+- 광운대학교 전자융합공학과 / 소프트웨어학부 복수전공 (소프트웨어학부 전공 평점 4.43/4.5)
 - 우아한테크코스 6기 BE 낙낙
 - 소프트웨어마에스트로 16기
 
