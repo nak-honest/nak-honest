@@ -11,5 +11,3 @@
 - [이력서](https://plastic-worm-bda.notion.site/15c3618738658046b283cbf285874383)
 - [포트폴리오](https://plastic-worm-bda.notion.site/14e3618738658069b8b7e9eb9eb4dd96)
 <br>
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/e5slnh07" width="600" height="300"/></a>
