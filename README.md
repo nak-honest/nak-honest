@@ -1,15 +1,10 @@
 ## Nakheon Lee(이낙헌)
 ![nak-honest's github stats](https://github-readme-stats.vercel.app/api?username=nak-honest&theme=dark&show_icons=true)
-   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e5slnh07)](https://solved.ac/e5slnh07/)
 
 - 광운대학교 전자융합공학과 / 소프트웨어학부 복수전공 (소프트웨어학부 전공 평점 4.41/4.5)
 - 우아한테크코스 6기 BE 낙낙
-- 소프트웨어마에스트로 16기 (취업으로 인한 중도 포기)
+- 소프트웨어마에스트로 16기
 - ABLY 안정화 스쿼드 백엔드 엔지니어 인턴 (2025.09 ~ 2025.12)
-- ABLY 안정화 스쿼드 백엔드 엔지니어 (2025.12 ~ )
+- ABLY 안정화 스쿼드 백엔드 엔지니어 (2025.12 ~ 2026.09)
+- 토스증권 Asset Transfer Team 서버 개발자 (2026.09 ~ )
 
-### Resume
-- [이력서](https://plastic-worm-bda.notion.site/15c3618738658046b283cbf285874383)
-- [포트폴리오](https://plastic-worm-bda.notion.site/14e3618738658069b8b7e9eb9eb4dd96)
-<br>
